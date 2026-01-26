@@ -13,7 +13,7 @@
 
 <!-- Banking-system Card -->
 <div style="border: 2px solid #1E90FF; border-radius: 15px; padding: 15px; width: 300px;">
-### 🏦 Banking-system <br>[C++]<img src="https://img.shields.io/badge/Language-C++-blue"></img>
+### 🏦 Banking-system <img src="https://img.shields.io/badge/Language-C++-blue"></img>
 <br>**C++ Banking System**  
 Demonstrates:  
 - Data structures  
@@ -25,7 +25,7 @@ Demonstrates:
 
 <!-- Final-Project Card -->
 <div style="border: 2px solid #FF8C00; border-radius: 15px; padding: 15px; width: 300px;">
-### 💻 Final-Project ![HTML](https://img.shields.io/badge/Language-HTML-orange)
+### 💻 Final-Project !<img src="https://img.shields.io/badge/Language-HTML-orange"></img>
 **HTML Final Project**  
 Showcases skills in:  
 - Web design  
@@ -37,7 +37,7 @@ Showcases skills in:
 
 <!-- project_php Card -->
 <div style="border: 2px solid #6A5ACD; border-radius: 15px; padding: 15px; width: 300px;">
-### 🛠️ project_php ![PHP](https://img.shields.io/badge/Language-PHP-purple)
+### 🛠️ project_php !<img src="https://img.shields.io/badge/Language-PHP-purple"></img>
 **PHP Web Development Project**  
 Focuses on:  
 - PHP programming  
