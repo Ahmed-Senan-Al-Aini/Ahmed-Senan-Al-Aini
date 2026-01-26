@@ -13,7 +13,7 @@
 
 <!-- Banking-system Card -->
 <div style="border: 2px solid #1E90FF; border-radius: 15px; padding: 15px; width: 300px;">
-### 🏦 Banking-system <br>[C++](https://img.shields.io/badge/Language-C++-blue)
+### 🏦 Banking-system <br>[C++]<img src="https://img.shields.io/badge/Language-C++-blue"></img>
 <br>**C++ Banking System**  
 Demonstrates:  
 - Data structures  
