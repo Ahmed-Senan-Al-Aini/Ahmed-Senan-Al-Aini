@@ -34,19 +34,6 @@ Showcases skills in:
 
 🔗 [View on GitHub](https://github.com/Ahmed-Senan-Al-Aini/Final-Project)
 </div>
-
-<!-- project_php Card -->
-<div style="border: 2px solid #6A5ACD; border-radius: 15px; padding: 15px; width: 300px;">
-<h2>🛠️ project_php <img src="https://img.shields.io/badge/Language-PHP-purple"></img></h2>
-<strong>HP Web Development Project</strong> 
-Focuses on:  
-- PHP programming  
-- Form handling  
-- Database integration  
-
-🔗 [View on GitHub](https://github.com/Ahmed-Senan-Al-Aini/project_php)
-</div>
-
 </div>
 
 ---
