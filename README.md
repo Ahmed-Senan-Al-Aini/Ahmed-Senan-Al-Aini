@@ -1,6 +1,6 @@
 
 #  <span align="center">👋🏻 Hi,I'm Ahmed Al-Aini </span>
-<p>Systems Architect in the Making </p>
+<span>Systems Architect in the Making </span>
 
 > Information Systems Student • Building production-ready management systems • C++ & PHP Core
 
