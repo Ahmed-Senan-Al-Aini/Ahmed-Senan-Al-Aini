@@ -1,5 +1,5 @@
 
-# ⚡ Ahmed Al-Aini | Systems Architect in the Making
+#  Ahmed Al-Aini | Systems Architect in the Making
 
 > Information Systems Student • Building production-ready management systems • C++ & PHP Core
 
@@ -100,5 +100,5 @@ I'm actively seeking **open-source collaborations** and **internship opportuniti
   <br/>
   <i>"Code that outlives the sprint — systems that scale, structures that survive."</i>
 </div>
-```
+
 ---
