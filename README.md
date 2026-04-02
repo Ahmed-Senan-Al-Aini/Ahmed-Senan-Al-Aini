@@ -4,8 +4,7 @@
 #### <p align="center">Systems Architect in the Making</p>
 
 > Information Systems Student
- • Building production-ready management systems
- • C++ & PHP Core
+ • Building production-ready management systems • C++ & PHP Core
 
 ---
 
@@ -77,7 +76,7 @@ C++ • Stack • Queue • Dynamic Memory Management
 
 ---
 
-## 📊 GitHub Pulse
+## 🍂 GitHub Pulse
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Senan-Al-Aini&theme=radical&hide_border=true&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=00FFAA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFAA&sideLabels=FFFFFF&dates=AAAAAA" />
