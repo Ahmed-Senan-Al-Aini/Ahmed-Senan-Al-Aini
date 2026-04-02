@@ -1,9 +1,10 @@
 
 #  <p align="center">👋🏻 Hi, I'm Ahmed<br> Al-Aini </p>
+-
 Systems Architect in the Making
 
-> • Information Systems Student<br>
- • Building production-ready management systems<br>
+> Information Systems Student
+ • Building production-ready management systems
  • C++ & PHP Core
 
 ---
