@@ -1,7 +1,7 @@
 
 #  <p align="center">👋🏻 Hi, I'm Ahmed<br> Al-Aini </p>
 
-#### Systems Architect in the Making
+#### <p align="center">Systems Architect in the Making</p>
 
 > Information Systems Student
  • Building production-ready management systems
