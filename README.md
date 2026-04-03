@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Systems+Architect;C%2B%2B+Core+Developer;PHP+Backend+Engineer;Building+Production+Systems&font=Fira%20Code&center=true&width=440&height=45&color=00FFAA&vCenter=true&size=22&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Systems+Architect;C%2B%2B+Core+Developer;PHP+Backend+Engineer;Building+Production+Systems&font=Fira%20Code&center=true&width=440&height=45&color=CCCCCC&vCenter=true&size=22&pause=1000" />
 </p>
 
 # <p align="center">👋🏻 Ahmed Al-Aini</p>
