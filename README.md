@@ -22,7 +22,7 @@
 
 ## 📦 Core Projects
 
-### 🏥 <span style="text-decoration:none;">[Hospital Management System](https://github.com/Ahmed-Al-Aini/Hospital-Management-System)</span>
+### <span style="text-decoration: none;">🏥 [Hospital Management System](https://github.com/Ahmed-Al-Aini/Hospital-Management-System)</span>
 **Production-ready web platform** for hospital operations — patients, appointments, billing, and staff dashboard.
 
 ```
