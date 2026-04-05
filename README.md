@@ -79,10 +79,7 @@ C++ • Stack • Queue • Dynamic Memory Management
 
 ## 📊 GitHub Pulse
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Al-Aini&theme=radical&hide_border=true&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=00FFAA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFAA&sideLabels=FFFFFF&dates=AAAAAA" />
-  <br/><br/>
-</div>
+[![3D Contributions](https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/actions/workflows/main.yml/badge.svg)](https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/actions/workflows/main.yml)
 
 ---
 
@@ -97,7 +94,7 @@ I'm actively seeking **open-source collaborations** and **internship opportuniti
 <div align="center">
   
 [![Email](https://img.shields.io/badge/25160091@su.edu.ye-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:25160091@su.edu.ye)
-[![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmed-Al-Aini)
+[![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmed-Al-Aini) <br>
 [![Generate 3D Contributions](https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/actions/workflows/profile3d.yml/badge.svg?branch=main)](https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/actions/workflows/profile3d.yml)
 
 </div>
