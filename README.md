@@ -106,8 +106,7 @@ I'm actively seeking **open-source collaborations** and **internship opportuniti
 
 ---
 
-<div align="center">
-  <i>"Code that outlives the sprint — systems that scale, structures that survive."</i>
-</div>
+<!-- my-badges start -->
+<!-- my-badges end -->
 
 ---
