@@ -1,7 +1,7 @@
 
 ---
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0084F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I\\'m+Ahmed+Al-Aini;Full-Stack+Developer+.+.+." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0084F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Al-Aini;Full-Stack+Developer+.+.+." alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -78,18 +78,6 @@ C++ • Stack • Queue • Dynamic Memory Management
 ---
 
 ## 📊 GitHub Pulse
-
-<div align="center">
-  <img src="https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/blob/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Al-Aini&show_icons=true&theme=radical" alt="Ahmed\'s GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Al-Aini&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-
----
 
 ![Generate 3D contributions](https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
