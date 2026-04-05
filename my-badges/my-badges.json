@@ -1,0 +1,72 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/Ahmed-Al-Aini/Banking-system/commit/ad249a6aa3d07a1666d777a0838ed667bc3bce60\"><strong>a</strong>d249a6aa3d07a1666d777a0838ed667bc3bce60</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/commit/ab7fa6e68e0f66290edf060c5891b05d7ad9db71\"><strong>ab</strong>7fa6e68e0f66290edf060c5891b05d7ad9db71</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" once.",
+    "body": "- <a href=\"https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/commit/2deadc251d0673150da6a8d242a5923898ca1b79\">2<strong>dead</strong>c251d0673150da6a8d242a5923898ca1b79</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 97 times)\n2. readme.md (used 93 times)\n3. project (used 21 times)\n4. delete (used 12 times)\n5. readme (used 10 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Ahmed-Al-Aini/Banking-system/commit/df8d2f89ddeeb21a8c9ddbe47ec783a105596ddb\">df8d2f8</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/ali10007/3d-Skin-Layers/discussions/3#discussioncomment-16453534\">❤️</a>\n* <a href=\"https://github.com/kishan0725/Hospital-Management-System/issues/64#issuecomment-4145113390\">❤️</a>\n* <a href=\"https://github.com/kishan0725/Hospital-Management-System/issues/64#issuecomment-4145121072\">❤️</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 5 my own repositories.",
+    "body": "- <a href=\"https://github.com/Ahmed-Al-Aini/Banking-system\">Ahmed-Al-Aini/Banking-system</a>\n- <a href=\"https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini\">Ahmed-Al-Aini/Ahmed-Al-Aini</a>\n- <a href=\"https://github.com/Ahmed-Al-Aini/Data-Structure-Text-Editor\">Ahmed-Al-Aini/Data-Structure-Text-Editor</a>\n- <a href=\"https://github.com/Ahmed-Al-Aini/Hospital-Management-System\">Ahmed-Al-Aini/Hospital-Management-System</a>\n- <a href=\"https://github.com/Ahmed-Al-Aini/Final-Project\">Ahmed-Al-Aini/Final-Project</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/commit/24362d2e6dd1254c4daeac01b6c50b670569a36c\">24362d2</a>\n- <a href=\"https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/commit/b6888c5e3d8604b0830051161b3dee7974d20203\">b6888c5</a>\n- <a href=\"https://github.com/Ahmed-Al-Aini/Banking-system/commit/9522192077c1d40459bfaddf0fe424008d439a8f\">9522192</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Ahmed-Al-Saidi/2dec_mall/commit/bf626e20edc2aeba7e21ed9fb4950a03a026470f\">bf626e2</a>\n- <a href=\"https://github.com/Ahmed-Al-Saidi/2dec_mall/commit/b95b8d32a094876e07a9d8a275c7f10da4ed05c2\">b95b8d3</a>\n- <a href=\"https://github.com/Ahmed-Al-Saidi/2dec_mall/commit/3e686f5ca57276560b259833a71596743f1d1dd4\">3e686f5</a>\n- <a href=\"https://github.com/Ahmed-Al-Saidi/2dec_mall/commit/a982ac599b53f79e3417ad15e8367e067181b578\">a982ac5</a>\n- <a href=\"https://github.com/Ahmed-Al-Saidi/2dec_mall/commit/2024e7fba9e0da0440897fabbd35b2a3bc839b67\">2024e7f</a>\n- <a href=\"https://github.com/Ahmed-Al-Saidi/2dec_mall/commit/7fdfa1247f784d38332d3c7dba79ddf1d1181bc0\">7fdfa12</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
