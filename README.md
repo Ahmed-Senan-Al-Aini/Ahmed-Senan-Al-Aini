@@ -1,8 +1,10 @@
-
-### <p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0084F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Al-Aini;Full-Stack+Developer+.+.+." alt="Typing SVG"/></a>
-</p>
+</div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-Al-Aini&style=for-the-badge&color=00FFAA" />
+</div>
 ---
 
 > **Information Systems Student** • Building production-ready management systems • C++ & PHP Core
@@ -101,8 +103,6 @@ I'm actively seeking **open-source collaborations** and **internship opportuniti
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmed-Al-Aini&style=for-the-badge&color=00FFAA" />
-  <br/>
   <i>"Code that outlives the sprint — systems that scale, structures that survive."</i>
 </div>
 
