@@ -86,7 +86,7 @@ C++ • Stack • Queue • Dynamic Memory Management
 
 ---
 
-[![Generate 3D Contributions](https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/actions/workflows/profile3d.yml/badge.svg?branch=main)](https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/actions/workflows/profile3d.yml)
+![Generate 3D contributions](https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
@@ -98,6 +98,7 @@ I'm actively seeking **open-source collaborations** and **internship opportuniti
   
 [![Email](https://img.shields.io/badge/25160091@su.edu.ye-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:25160091@su.edu.ye)
 [![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmed-Al-Aini)
+[![Generate 3D Contributions](https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/actions/workflows/profile3d.yml/badge.svg?branch=main)](https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/actions/workflows/profile3d.yml)
 
 </div>
 
