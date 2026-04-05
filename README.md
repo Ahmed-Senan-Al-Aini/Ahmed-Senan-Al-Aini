@@ -86,6 +86,10 @@ C++ • Stack • Queue • Dynamic Memory Management
 
 ---
 
+[![Generate 3D Contributions](https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/actions/workflows/profile3d.yml/badge.svg?branch=main)](https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/actions/workflows/profile3d.yml)
+
+---
+
 ## 🌐 Connect & Collaborate
 
 I'm actively seeking **open-source collaborations** and **internship opportunities** in backend development and systems engineering.
