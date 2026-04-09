@@ -8,6 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=Ahmed-Al-Aini&style=flat-square&color=00FFAA" />
 </div>
 
+
 ---
 
 > **Information Systems Student** • Building production-ready management systems • C++ & PHP Core
@@ -87,12 +88,13 @@ C++ • Stack • Queue • Dynamic Memory Management
 ---
 
 ## 📊 GitHub Pulse
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
-  <img alt="3D Contributions" src="./profile-3d-contrib/profile-night-green.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmed-Al-Aini/Ahmed-Al-Aini/main/profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmed-Al-Aini/Ahmed-Al-Aini/main/profile-3d-contrib/profile-gitblock.svg" />
+    <img alt="3D Contributions" src="https://raw.githubusercontent.com/Ahmed-Al-Aini/Ahmed-Al-Aini/main/profile-3d-contrib/profile-night-green.svg" width="800" />
+  </picture>
+</p>
 ---
 
 ## 🌐 Connect & Collaborate
