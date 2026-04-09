@@ -1,5 +1,4 @@
 
-
 <p align="center">
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0084F7&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Al-Aini;Full-Stack+Developer+.+.+." alt="Typing SVG"/>
@@ -89,8 +88,11 @@ C++ • Stack • Queue • Dynamic Memory Management
 
 ## 📊 GitHub Pulse
 
-![Generate 3D contributions](https://github.com/Ahmed-Al-Aini/Ahmed-Al-Aini/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
+  <img alt="3D Contributions" src="./profile-3d-contrib/profile-night-green.svg" />
+</picture>
 ---
 
 ## 🌐 Connect & Collaborate
