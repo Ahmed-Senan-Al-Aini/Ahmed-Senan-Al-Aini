@@ -59,14 +59,12 @@ looking_for: Open-source collaborations & internship opportunities
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Al-Aini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Al-Aini&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Al-Aini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=495" />
+  <img src="https://streak-stats.demolab.com/?user=Ahmed-Al-Aini&theme=tokyonight&hide_border=true&card_width=495" />
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Al-Aini&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Al-Aini&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=495" />
 </div>
 
 <br/>
@@ -85,9 +83,9 @@ looking_for: Open-source collaborations & internship opportunities
 
 ## 📦 Core Projects
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <h3>🏥 <a href="https://github.com/Ahmed-Al-Aini/Hospital-Management-System">Hospital Management System</a></h3>
       <p><strong>Production-ready web platform</strong> for hospital operations — patients, appointments, billing, and staff dashboard.</p>
       <p>
@@ -105,7 +103,9 @@ looking_for: Open-source collaborations & internship opportunities
         <img src="https://img.shields.io/badge/⭐_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td valign="top">
       <h3>💳 <a href="https://github.com/Ahmed-Al-Aini/Banking-system">Core Banking System (CLI)</a></h3>
       <p><strong>Enterprise-grade banking simulation</strong> — pure C++ with CSV persistence, OOP architecture, and transaction integrity.</p>
       <p>
@@ -125,7 +125,7 @@ looking_for: Open-source collaborations & internship opportunities
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <h3>📝 <a href="https://github.com/Ahmed-Al-Aini/Data-Structure-Text-Editor">Data Structure Text Editor</a></h3>
       <p><strong>Low-level text processor</strong> demonstrating algorithmic efficiency using stacks and queues.</p>
       <p>
@@ -141,7 +141,9 @@ looking_for: Open-source collaborations & internship opportunities
         <img src="https://img.shields.io/badge/⭐_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td valign="top">
       <h3>🔍 More Projects</h3>
       <p>Explore all my repositories for additional C++, PHP, and Python projects covering algorithms, utilities, and web applications.</p>
       <p>
@@ -181,7 +183,7 @@ looking_for: Open-source collaborations & internship opportunities
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-light-rainbow.svg" />
-    <img alt="3D Contributions" src="./profile-3d-contrib/profile-night-rainbow.svg" width="800" />
+    <img alt="3D Contributions" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
   </picture>
 </p>
 
