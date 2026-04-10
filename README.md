@@ -73,7 +73,9 @@ looking_for: Open-source collaborations & internship opportunities
 
 ## 🏆 GitHub Trophies
 
-![trophies](https://github-profile-trophy.vercel.app/?username=Ahmed-Al-Aini&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Al-Aini&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" />
+</p>
 
 <br/>
 
