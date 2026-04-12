@@ -73,11 +73,19 @@ looking_for: Open-source collaborations & internship opportunities
 
 ## 🏆 GitHub Trophies
 
+<p align="center">
+  <a href="https://github.com/Ahmed-Al-Aini">
+    <!-- صورة أنيميشن الثعبان ستظهر هنا -->
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Ahmed-Al-Aini/Ahmed-Al-Aini/output/github-contribution-grid-snake.svg">
+  </a>
+</p>
 
+<!--
 <div align="center">
   <!-- صورة الإحصائيات الشاملة (Metrics) ستظهر هنا -->
   <img alt="Metrics" src="https://raw.githubusercontent.com/Ahmed-Al-Aini/Ahmed-Al-Aini/main/github-metrics.svg">
 </div>
+-->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Al-Aini&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" />
