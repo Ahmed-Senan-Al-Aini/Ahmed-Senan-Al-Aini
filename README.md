@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ahmed-Al-Aini&style=for-the-badge&color=0e75b6&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/Ahmed-Al-Aini?style=for-the-badge&color=0e75b6&label=Followers" />
+  <img src="https://img.shields.io/github/projects/Ahmed-Al-Aini?style=for-the-badge&color=0e75b6&label=Followers" />
 </div>
 
 <br/>
