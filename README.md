@@ -227,7 +227,7 @@ looking_for: Open-source collaborations & internship opportunities
 
 ---
 
-<!-- my-badges start -->
+<!-- my-badges start 
 <a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
 <a href="my-badges/abc-commit.md"><img src="https://my-badges.github.io/my-badges/abc-commit.png" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
 <!-- my-badges end -->
